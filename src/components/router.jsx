@@ -1,7 +1,7 @@
 import useAuth from "../hooks/useAuth";
 import {useState, useEffect} from "react";
 import LoginScreen from "./login";
-import Header from "./Header";
+import Header from "./header";
 import DashboardPage from "./dashboard";
 import MCPConsolePage from "./mcpPanel";
 import { Loader } from "lucide-react";
